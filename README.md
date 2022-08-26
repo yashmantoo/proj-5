@@ -16,4 +16,4 @@ In this project I have created a landing page from scratch. And I learned a lot 
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://monstera-landing-page.netlify.app/)
+[Live Link !](https://dao-landing-page.netlify.app/)
