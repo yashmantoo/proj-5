@@ -2,7 +2,7 @@
 This is Yash Mantoo. 
 I'm a passionate Full Stack Developer from Pune.
 
-## Project Name : **Monstera Landing Page !**
+## Project Name : **DAO Landing Page !**
 
 In this project I have created a landing page from scratch. And I learned a lot of things like how to use flex and how css makes life easier, and how we can manipulate things in HTML with the help of CSS without touching the HTML file. Besides positioning, I also learned quite a lot about Flexbox and its attributes.
 
